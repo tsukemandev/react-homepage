@@ -31,10 +31,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/tsukemandev/react-imgedit.git
+$ git clone https://github.com/tsukemandev/react-homepage.git
 
 # Go into the repository
-$ cd react-imgedit
+$ cd react-homepage
 
 # Run npm install
 $ npm install
